@@ -1,0 +1,13 @@
+*.internal
+*.d
+*.o
+
+cmake-cache
+build
+ns-allinone-3.36/__pycache__
+
+ns-allinone-3.36/ns-3.36/.lock-ns3_linux_build
+slurm-*
+res/
+ns-allinone-3.36/ns-3.36/res
+.DS_Store

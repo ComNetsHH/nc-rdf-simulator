@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+parsed_results/
+.gif
+figures
+analytical_results/

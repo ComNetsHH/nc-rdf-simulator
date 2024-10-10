@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "NC-RDF Simulator"
+authors:
+  - family-names: Fuger
+    given-names: Konrad
+    orcid: https://orcid.org/0000-0002-8472-1483
+title: "NC-RDF Simulator"
+version: 1.0.0
+doi: XXX
+date-released: 2024-10-10

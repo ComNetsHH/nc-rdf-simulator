@@ -1,0 +1,1 @@
+parallel -j6 python3 run_collision_experiment.py "collision-rate" ::: $(seq 0 399)
